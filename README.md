@@ -6,4 +6,5 @@ Btt Pi
 Stealthburner/CW2
 Planned Mods in the future - 1) Tap 2) Cabbus 2209 3) Umbical
 Maybe Chamber lights, klicky probe, Nevermore (Micro or THE Filter by AKinferno)
-![IMG20230509203353](https://github.com/espooblue/Dippi/assets/28928641/a00d5178-f62f-4bd6-8e5a-4028925ae932)
+![IMG_6407](https://github.com/espooblue/Dippi/assets/28928641/96ca9b51-961e-4dc3-9654-c1a3ea22a27a)
+
